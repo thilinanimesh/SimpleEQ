@@ -35,6 +35,7 @@
         <MODULEPATH id="juce_graphics" path="../../Coding/JUCE/modules"/>
         <MODULEPATH id="juce_gui_basics" path="../../Coding/JUCE/modules"/>
         <MODULEPATH id="juce_gui_extra" path="../../Coding/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../Coding/JUCE/modules"/>
       </MODULEPATHS>
     </XCODE_MAC>
   </EXPORTFORMATS>
